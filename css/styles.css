@@ -1,0 +1,21 @@
+#meu{
+    background-color: aliceblue;
+    font-style: bold;
+}
+#t{
+    font-family: Cambria;
+    font-style: italic;
+    color:cornflowerblue; 
+}
+#obj{
+    color:cornflowerblue; 
+}
+#loc{
+    color:darkcyan;
+}
+#vel{
+    color:darkslateblue;
+}
+#r{
+    color:firebrick;
+}
